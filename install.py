@@ -63,4 +63,5 @@ if drive == '1':
     time.sleep(1)
     os.system('exit')
     os.system('reboot')
-
+else:
+ pass
